@@ -752,9 +752,13 @@ Figure A5.3. **Preventative Measures to Reduce Frostbite Risk, Technical Bulleti
 ![EXAMPLE FORM 341](images/Form%20341%20Example.png)
 
 1.      Name will be in all caps, LAST NAME, FIRST NAME and MIDDLE INITIAL.
+
 		 a. No punctuation or dashes in this block.
+		 
 2.      Everyone's grade will be **OT** even if direct commissioned.
+
 3.      Organization. Will be assigned trainee Squadron (e.g., Goldhawks, Hoyas, Mustangs, Wolfpack).
+
 4.      Class/Flight will be IAW registrar.
 
 

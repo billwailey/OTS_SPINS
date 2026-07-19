@@ -763,4 +763,4 @@ Figure A5.3. **Preventative Measures to Reduce Frostbite Risk, Technical Bulleti
  ![AAR STRUCTURE](images/Pasted%20image%2020260719142529.png) 
 
 
-**==<span style="font-size: 4em;">ALWAYS WITH HONOR</span>
+<span style="font-size: 4em;">ALWAYS WITH HONOR</span>

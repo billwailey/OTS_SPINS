@@ -1,4 +1,4 @@
-![AETC LOGO](https://github.com/billwailey/OTS_SPINS/blob/main/Pasted%20image%2020260719132052.png)
+![AETC LOGO](main/Pasted%20image%2020260719132052.png)
 
 BY THE ORDER OF THE COMMANDANT OFFICER TRAINING SCHOOL (AFAC)
 

@@ -193,7 +193,7 @@ Officer Trainees will consider all members assigned to OTS as staff regardless o
 >
 >2.4.2.4.   When the conversation is over and/or the question has been answered, the OT will assume the position of attention, give the greeting of the day, and salute as appropriate.
 
-2.4.3.      When any staff member addresses an Officer Trainee, the Officer Trainee will respond with one of the following [[seven basic responses]], unless otherwise directed. For situations not specified, Officer Trainees will begin or end every sentence with Sir/Ma’am.
+2.4.3.      When any staff member addresses an Officer Trainee, the Officer Trainee will respond with one of the following seven basic responses, unless otherwise directed. For situations not specified, Officer Trainees will begin or end every sentence with Sir/Ma’am.
 
 > 2.4.3.1.      “Yes, Sir/Ma’am.”
 >
@@ -235,7 +235,7 @@ Officer Trainees will always present a standardized and professional image.
 
 2.5.2.    Uniforms. Officer Trainees will standardize uniform wear to the maximum extent, while exercising good judgement and appropriate decision making.
 
->2.5.2.1.    **[[Mandatory Items]].** The following items will be carried on the trainee’s person at all times:
+>2.5.2.1.    **Mandatory Items.** The following items will be carried on the trainee’s person at all times:
 >
 >>2.5.2.1.1.      Identification Card. Government issued photo ID (e.g., Common Access Card, Driver’s License, Passport, etc.)
 >>
@@ -310,28 +310,28 @@ Officer Trainees will always present a standardized and professional image.
 >2.7.6.3.       Officer Trainees will form up for pre/post event briefs IAW with Attachment 7 for field leadership events (e.g., Leadership Reactionary Course (LRC)).
 
 2.7.7.      Use of any OTS conference rooms and non-classroom spaces must be pre-coordinated with owning agency.
-### 2.8.  [[Reporting Procedures]].
+### 2.8.  Reporting Procedures.
 
 2.8.1.        When directed to report, Officer Trainees will center themselves on the threshold of the door or cubicle entrance and knock once (loud enough to be heard). Once acknowledged, Officer Trainees will enter, using the most direct route to the staff member, center themselves two paces away (if possible) in front of the desk or staff member, salute (if the staff member is a commissioned officer), and give the appropriate reporting statement.
 
 2.8.2.        In the office/cubicle area, if multiple Officer Trainees are reporting in, one Officer Trainee in the group will salute (as appropriate) and state, “Sir/Ma’am, (Officer Trainee) (Last Name) plus (number of Officer Trainees) reports as ordered.” If told to take a seat, Officer Trainees will take their seat. When departing, the Officer Trainee who reported-in will salute as appropriate and give the greeting of the day for the entire group. Officer Trainees will take the most direct route out of the office.
 ### 2.9.  Training Feedback Tools.
 
-2.9.1.     [[AETC Form 341]], Excellence/Discrepancy Report. This document may be used to address positive and/or negative Officer Trainee performance. Officer Trainees will always carry a minimum of two copies. The form will have Name, Grade (OT), Organization, and Class/Flight blocks legibly filled in blue or black ink, see Attachment 6 for example.
+2.9.1.     AETC Form 341, Excellence/Discrepancy Report. This document may be used to address positive and/or negative Officer Trainee performance. Officer Trainees will always carry a minimum of two copies. The form will have Name, Grade (OT), Organization, and Class/Flight blocks legibly filled in blue or black ink, see Attachment 6 for example.
 
 2.9.2.      Motivational Training (MT). MT consists of physical exercises designed to motivate trainees to follow OTS standards and expectations. Qualified staff may administer MT to correct lapses in procedures as well as motivate trainees to work as a team.
 
-2.9.3.    [[Form 2]], _OTS Leadership Development Report_. This form will be used at the discretion of the staff to document performance during leadership activities.
+2.9.3.    Form 2, _OTS Leadership Development Report_. This form will be used at the discretion of the staff to document performance during leadership activities.
 
-2.9.4.     [[Form 6]], _Briefing Evaluation Sheet_. This form will be used to evaluate briefings.
+2.9.4.     Form 6, _Briefing Evaluation Sheet_. This form will be used to evaluate briefings.
 
-2.9.5.     [[Form 9]], _Paper Evaluation Form._ This form will be used to evaluate writing assignments.
+2.9.5.     Form 9, _Paper Evaluation Form._ This form will be used to evaluate writing assignments.
 
-2.9.6.     Memorandums and [[Record of Individual Counseling]] (RIC). Memorandums and RICs are a means of documenting Officer Trainee performance expectations. Excessive negative documents affect an Officer Trainee’s ability to successfully complete OTS. Officer Trainees will acknowledge receipt of all memorandums and RICs.
+2.9.6.     Memorandums and Record of Individual Counseling (RIC). Memorandums and RICs are a means of documenting Officer Trainee performance expectations. Excessive negative documents affect an Officer Trainee’s ability to successfully complete OTS. Officer Trainees will acknowledge receipt of all memorandums and RICs.
 
-2.9.6.1.    Feedback Acknowledgment. If an Officer Trainee wishes to make a response to feedback received during training, they may have up to three duty days from the event to submit a comment written IAW AFH 33-337, *[[Tongue and Quill.pdf|Tongue and Quill]]*, to their Flight Commander.
+2.9.6.1.    Feedback Acknowledgment. If an Officer Trainee wishes to make a response to feedback received during training, they may have up to three duty days from the event to submit a comment written IAW AFH 33-337, *Tongue and Quill*, to their Flight Commander.
 ### 2.10.     Security Violations. 
-Security violations occur when Officer Trainees intentionally or unintentionally permit the release or loss of controlled information, materials, or funds. Examples include leaving dorm room security drawers unlocked when rooms are unoccupied, leaving electronic devices unsecured, leaving Personally Identifiable Information or ID cards unattended, or release of OTS Graded Measures and study materials. ==Note: Laptops and items stored in backpacks are considered secured when left in an Officer Trainee’s dorm room or flight room provided the system is password or biometrically protected.==
+Security violations occur when Officer Trainees intentionally or unintentionally permit the release or loss of controlled information, materials, or funds. Examples include leaving dorm room security drawers unlocked when rooms are unoccupied, leaving electronic devices unsecured, leaving Personally Identifiable Information or ID cards unattended, or release of OTS Graded Measures and study materials. Note: Laptops and items stored in backpacks are considered secured when left in an Officer Trainee’s dorm room or flight room provided the system is password or biometrically protected.
 ### 2.11.      Religious Services.
 
 2.11.1.    Officer Trainees may be allotted up to 1 hour to attend worship services of their choice, on Maxwell AFB or virtual services.
@@ -516,7 +516,7 @@ A2.1.6. **Drill Command.**
 An oral order to direct a formation. Most drill commands consist of two commands. The Preparatory Command, which explains what the movement will be and the Command of Execution, given after the Preparatory Command. This explains when the movement will be carried out. In certain commands, the preparatory command and the command of execution are combined, for example: “FALL IN” or “AT EASE.” Informational commands have no Preparatory Command or Command of Execution, and they are not supplementary. Two examples are “PREPARE FOR INSPECTION” or “COLUMN OF FILES.”
 
 A2.1.7. **Cadence.** 
-Cadence is the measure or beat of movement. Cadence is given in sets of two as follows: ==“HUT, TOOP, THREEP, FOURP; HUT, TOOP, THREEP, FOURP.”== Do not initiate cadence if a complete set of two cannot be achieved.
+Cadence is the measure or beat of movement. Cadence is given in sets of two as follows: *“HUT, TOOP, THREEP, FOURP; HUT, TOOP, THREEP, FOURP.”* Do not initiate cadence if a complete set of two cannot be achieved.
 
 A2.1.8. **Sizing.** 
 OT Flights and OT Squadrons must be sized prior to moving. If not sized, the proper verbiage is as follows: “With the exception of the guidon bearer and element leaders (or with no exception), if you are taller than the Officer Trainee/OT in front of you, tap them on the shoulder and move forward.”
@@ -536,7 +536,7 @@ If using unimproved surfaces (e.g., grass, dirt, etc.) use caution while marchin
 
 A2.2.5. All members of a formation must carry operable flashlights during hours of darkness and periods of reduced visibility. Exception: Reflective gear is a suitable substitute during formation runs.
 
-A2.2.6. **[[Building Entrance and Departing Procedures| Building entrance procedures]].**
+A2.2.6. **Building Entrance and Departing Procedures| Building entrance procedures.**
 Entrance procedures are necessary to promote good order and discipline among Officer Trainees while entering any permanent structure. These procedures apply to squadron, flight, and SMU formations. If a door becomes propped in the open position, the last Officer Trainee entering will close it.
 
 >A2.2.6.1. **Column of Files.** To form a single file when in a column of two or more elements, the command is: “COLUMN OF FILES from the right (left), forward, MARCH.” If the movement is from the left, on the informational command, the guide will execute a face in marching, then right face in front of the file that will move first and remain at carry guidon. On the preparatory command, the element leader of the right (left) element turns their head 45 degrees to the right (left) and command, “Forward.” The same time, the remaining element leaders turn their heads 45 degrees to the right (left) and command “STAND FAST.” Their heads are kept to the right (left) until they step off. On the command “March,” the extreme right (left) element steps off. The element leader of each remaining element commands “Forward, MARCH” as the last Officer Trainee in each element passes, ensuring the leaders element is in step with the preceding element. All subsequent elements then incline to the right (left), following the leading elements in successive order.
@@ -569,16 +569,16 @@ A2.3.2. Officer Trainees are not required to march while escorting guests during
 A2.3.3. Formations will be properly sized IAW DAFPAM 34-1203. The Flight Leader will ensure only authorized routes of march are utilized.
 
 A2.3.4. **Right of Way for Formations.**
-Under normal conditions, a formation will not pass another formation that is on the march. Formations/SMUs may pass other stationary formations without requesting permission. The leader of a stationary formation must yield the right of way to a formation underway. If formations are on the march and converging on each other, ==leaders will yield the right of way to formations on their right.==
+Under normal conditions, a formation will not pass another formation that is on the march. Formations/SMUs may pass other stationary formations without requesting permission. The leader of a stationary formation must yield the right of way to a formation underway. If formations are on the march and converging on each other, leaders will yield the right of way to formations on their right.
 
 A2.3.5. **Utilization of Improved Surfaces Only.**
-Officer Trainees will only plan to march/walk on improved surfaces. ==Do not walk/march across areas covered in grass surface== (unless directed by OTS staff or for safety reasons).
+Officer Trainees will only plan to march/walk on improved surfaces. Do not walk/march across areas covered in grass surface (unless directed by OTS staff or for safety reasons).
 
 ### A2.4. Road Guards.
 
 **A2.4.1. General Information.**
 
->A2.4.1.1. Road guards ensure the safety of Officer Trainees during transit around the OTS campus and Maxwell AFB. ==Road guards are required for all student formations greater than eight students.== For flights seven or smaller, the Flight Leader will function as road guard for their flight. SMUs, formations of two to four students do not require road guards.
+>A2.4.1.1. Road guards ensure the safety of Officer Trainees during transit around the OTS campus and Maxwell AFB. Road guards are required for all student formations greater than eight students. For flights seven or smaller, the Flight Leader will function as road guard for their flight. SMUs, formations of two to four students do not require road guards.
 >
 >A2.4.1.2. The last individual(s) in the rear of each element will serve as a road guard. Required safety equipment for road guards: fluorescent/reflective vest (if transiting off campus), reflective belt, and flashlight (during hours of darkness). Occasionally, situations may warrant more or less than two road guards (e.g., intersections with greater than two possible vehicular traffic routes). Squadron formations require four road guards; they will be positioned in groups of two approximately six paces ahead and behind the formation.
 >
@@ -586,7 +586,7 @@ Officer Trainees will only plan to march/walk on improved surfaces. ==Do not wal
 >
 >A2.4.1.4. The Flight Leader will render all courtesies for the flight. If an officer (on foot) or staff vehicle passes (from the front) the person in charge will render courtesies. If a staff vehicle approaches the flight while crossing an intersection the road guard will not salute (due to safety). The person in charge will march the flight across the street, halt the flight, call in the road guards, and then render courtesies to the staff vehicle.
 
-**A2.4.2. [[Road Guard Procedures|Procedures.]]**
+**A2.4.2. Procedures.**
 
 >A2.4.2.1. For safety reasons, flights will always be halted prior to entering a hazard area so the Flight Leader can ensure the safety of the posting road guards. Hazard areas include all intersections where vehicular transit occurs including parking lots.
 >
@@ -651,7 +651,7 @@ A3.4.2. After the hold line, Flight Leaders will march their flight into either 
 
 A3.4.3. Once a flight is in either the right or left exterior bay, the flight will remain at attention, the Flight Leader will take the most direct and unobstructed route to within two paces in front of the Mess Checker, initiate a salute, and state the following: “Sir/Ma’am, flight  reports with a dining priority of  . We arrived at   .” The Mess Checker will return the salute and, if the flight is within their window, allow access once the interior bay is clear. If the flight arrives outside of their window, the Mess Checker will determine if the flight may proceed into the DFAC, wait until their scheduled time, or wait until after the last flight enters. The Flight Leader will give the greeting of the day, return to their flight, and then wait to enter the DFAC. Flights may be “AT EASE” until the inside bay is clear, and they are prepared to enter AFTER they have reported in. Mess Checker will report early/late arrivals, and their resolution, to the OT Wing Commander.
 
-==Note: Due to the positional authority of the Mess Checker, the Mess Checker will always drop their salute first.==
+Note: Due to the positional authority of the Mess Checker, the Mess Checker will always drop their salute first.
 
 A3.4.4. Once the assigned interior bay is clear, the Flight Leader will direct their flight to enter using the “COLUMN OF FILES” command. The file closest to the center of the building, enters the DFAC first. After the command, the guidon bearer will place the guidon in the guidon stand and fall-in at the rear of their flight; the Flight Leader will hold open the door and enter last.
 
@@ -765,6 +765,12 @@ Figure A5.3. **Preventative Measures to Reduce Frostbite Risk, Technical Bulleti
 # Attachment 7: FIELD LEADERSHIP FORMATION
 
  ![AAR STRUCTURE](images/Pasted%20image%2020260719142529.png) 
+
+
+
+
+
+
 
 
 <span style="font-size: 4em;">ALWAYS WITH HONOR</span>
